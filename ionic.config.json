@@ -1,6 +1,6 @@
 {
   "name": "scotch-todo",
-  "app_id": "",
+  "app_id": "b157c4c9",
   "type": "ionic-angular",
   "integrations": {
     "cordova": {}
